@@ -57,7 +57,7 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id, { text: '' + b64data });
 
                let GIFTED_MD_TEXT = `
-*KYPHER_XND Pair Code Connected*
+*KYPHER_XMD Pair Code Connected*
 *_Created by KYPHER_*
 ______________________________________
 ╔════◇
