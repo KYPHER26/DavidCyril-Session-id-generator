@@ -70,7 +70,7 @@ ______________________________________
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
 ║❒ *Ytube:* _https://www.youtube.com/@Kypher_tech
 ║❒ *Owner:* https://wa.me/255760266629_
-║❒ *Repo:* _https://github.com/Fearless-tech1_
+║❒ *Repo:* _https://github.com/KYPHER26/KYPHER_XMD
 ║❒ *WaGroup:* _https://chat.whatsapp.com/BO1RVKMAatT7QldEGMvhYd
 ║❒ *WaChannel:* _https://whatsapp.com/channel/0029VanspvdLtOj55DG0t82Y
 ║
